@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 .config/
-.replit.nix
+replit.nix
 .replit
